@@ -1,2 +1,2 @@
-# WhoIsGearmo-
-A short website describing my goals and a little bit about myself. No domain yet.
+# GearModules
+Hi, I'm Gearmo! "GearModules" is my personal Web Development website that introduces me and my programming portfolio, including websites I've created and some trivia about my life.
